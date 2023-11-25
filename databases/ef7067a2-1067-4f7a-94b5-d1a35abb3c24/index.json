@@ -1,0 +1,29 @@
+{
+  "columns": [
+    {
+      "dbName": "a",
+      "sourceName": "a",
+      "type": "integer"
+    },
+    {
+      "dbName": "b",
+      "sourceName": "b",
+      "type": "integer"
+    },
+    {
+      "dbName": "c",
+      "sourceName": "c",
+      "type": "integer"
+    },
+    {
+      "dbName": "d",
+      "sourceName": "d",
+      "type": "integer"
+    }
+  ],
+  "enablePostProcessing": false,
+  "id": "ef7067a2-1067-4f7a-94b5-d1a35abb3c24",
+  "label": "mulit1 - csv",
+  "source": "csv",
+  "tableName": "t1"
+}
