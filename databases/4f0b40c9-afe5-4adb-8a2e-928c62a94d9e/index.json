@@ -1,0 +1,29 @@
+{
+  "columns": [
+    {
+      "dbName": "name",
+      "sourceName": "name",
+      "type": "text"
+    },
+    {
+      "dbName": "age",
+      "sourceName": "age",
+      "type": "integer"
+    },
+    {
+      "dbName": "address",
+      "sourceName": "address",
+      "type": "text"
+    },
+    {
+      "dbName": "zip",
+      "sourceName": "zip",
+      "type": "text"
+    }
+  ],
+  "enablePostProcessing": false,
+  "id": "4f0b40c9-afe5-4adb-8a2e-928c62a94d9e",
+  "label": "test1",
+  "source": "csv",
+  "tableName": "t1"
+}

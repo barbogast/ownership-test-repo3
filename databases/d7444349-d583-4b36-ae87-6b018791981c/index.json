@@ -1,0 +1,14 @@
+{
+  "columns": [
+    {
+      "dbName": "aaaa",
+      "sourceName": "aaaa",
+      "type": "text"
+    }
+  ],
+  "enablePostProcessing": false,
+  "id": "d7444349-d583-4b36-ae87-6b018791981c",
+  "label": "test4",
+  "source": "csv",
+  "tableName": "db1"
+}
